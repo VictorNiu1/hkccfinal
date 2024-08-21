@@ -4,11 +4,15 @@ body {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center;
+  justify-content: center;  
   align-items: center;
 
 }
-
+.navbar {
+  width: 100%;
+  background-color: #1a2a6c;
+  color: white;
+}
 .RegForm, .LoginForm {
   background-color: #fff;
   padding: 20px;

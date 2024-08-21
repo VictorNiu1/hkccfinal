@@ -23,7 +23,11 @@
   gap: 20px; /* Adds space between the items */
   flex-wrap: wrap; /* Ensures items wrap to the next line if they overflow */
 }
-
+.navbar {
+  width: 100%;
+  background-color: #1a2a6c;
+  color: white;
+}
 .project-item {
   background-color: #fff;
   border: 1px solid #ddd;
